@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This React app was made with the sole porpouse of being deployed automatically by travis-ci
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://travis-ci.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Travis CI
         </a>
       </header>
     </div>
